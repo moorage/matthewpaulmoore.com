@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ description or site.description }}" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" href="https://fonts.gstatic.com/s/ebgaramond/v32/SlGUmQSNjdsmc35JDF1K5GR1SDk.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="https://fonts.gstatic.com/s/sourcesans3/v19/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&family=Source+Sans+3:wght@400;600&display=swap" />
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ '/feed.xml' | url }}" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="measure">
+        <p class="site-title"><a href="{{ '/' | url }}">{{ site.title }}</a></p>
+        <p class="site-subtitle">{{ site.description }}</p>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="{{ '/essays/' | url }}">Essays</a>
+          <a href="{{ '/notes/' | url }}">Notes</a>
+          <a href="{{ '/projects/' | url }}">Projects</a>
+          <a href="{{ '/tags/' | url }}">Tags</a>
+          <a href="{{ '/about/' | url }}">About</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="site-main">
+      <div class="measure">
+        {{ content | safe }}
+      </div>
+    </main>
+    <footer class="site-footer">
+      <div class="measure">
+        <img class="ornament" src="{{ '/assets/ornaments/fleuron.svg' | url }}" alt="" aria-hidden="true" />
+        <p class="meta">Gardened by {{ site.author }} · <a href="{{ '/colophon/' | url }}">Colophon</a></p>
+      </div>
+    </footer>
+  </body>
+</html>
