@@ -3,7 +3,6 @@ layout: layouts/base.njk
 ---
 <article class="post">
   <header class="post-header">
-    <p class="section-label">{{ type | capitalize }}</p>
     <h1>{{ title }}</h1>
     {% if subtitle %}
     <p class="subtitle">{{ subtitle }}</p>
@@ -11,8 +10,7 @@ layout: layouts/base.njk
     <p class="post-meta meta">
       <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
       {% if readTime %} · {{ readTime }} min read{% endif %}
-      {% if tags and tags.length %} · Tagged {% for tag in tags %}<a href="{{ '/tags/' | url }}{{ tag | slug }}/">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}
-      {% if plot %} · Plot <a href="{{ '/plots/' | url }}{{ plot | slug }}/">{{ plot }}</a>{% endif %}
+      {% if tags and tags.length %} · Topics: {% for tag in tags %}<a href="{{ '/tags/' | url }}{{ tag | slug }}/">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}
     </p>
     <img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
   </header>

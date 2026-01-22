@@ -4,7 +4,6 @@ title: Ink Smudges
 date: 2026-01-16
 type: note
 tags: [notes, fragments]
-plot: garden-walk
 featured: true
 featuredRank: 2
 ---

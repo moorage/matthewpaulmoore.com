@@ -3,16 +3,16 @@ layout: layouts/base.njk
 ---
 <section class="list">
   <header class="list-header">
-    <p class="section-label">{{ sectionLabel or 'Archive' }}</p>
     <h1>{{ title }}</h1>
     {% if intro %}<p class="lede">{{ intro }}</p>{% endif %}
     <img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
   </header>
   <ol class="post-list">
-    {% for item in items %}
+    {% for item in collections.notes %}
     <li>
-      <a href="{{ item.url | url }}">{{ item.data.title }}</a>
-      <span class="meta">{{ item.date | readableDate }}</span>
+      {% set displayTitle = item.data.title or item.fileSlug or "Untitled" %}
+      <a href="{{ item.url | url }}">{{ displayTitle }}</a>
+      <span class="meta">{{ (item.data.date or item.date) | readableDate }}</span>
       {% if item.data.subtitle %}<span class="meta">· {{ item.data.subtitle }}</span>{% endif %}
       {% if item.data.tags %}
       <span class="meta">

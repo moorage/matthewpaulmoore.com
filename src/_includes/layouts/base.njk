@@ -15,19 +15,19 @@
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
-    <header class="site-header">
-      <div class="measure">
-        <p class="site-title"><a href="{{ '/' | url }}">{{ site.title }}</a></p>
-        <p class="site-subtitle">{{ site.description }}</p>
-        <nav class="site-nav" aria-label="Primary">
-          <a href="{{ '/essays/' | url }}">Essays</a>
-          <a href="{{ '/notes/' | url }}">Notes</a>
-          <a href="{{ '/projects/' | url }}">Projects</a>
-          <a href="{{ '/tags/' | url }}">Tags</a>
-          <a href="{{ '/about/' | url }}">About</a>
+    <div class="top-bar">
+      <div class="top-bar__inner">
+        <a class="site-logo" href="{{ '/' | url }}">
+          mpm
+          <span class="site-logo-arrow" aria-hidden="true">&larr;</span>
+        </a>
+        <nav class="site-nav site-nav--top" aria-label="Primary">
+          <a class="{% if page.url and page.url.startsWith('/notes/') %}is-active{% endif %}" href="{{ '/notes/' | url }}">NOTES</a>
+          <a class="{% if page.url and page.url.startsWith('/tags/') %}is-active{% endif %}" href="{{ '/tags/' | url }}">TOPICS</a>
+          <a class="{% if page.url and page.url.startsWith('/about/') %}is-active{% endif %}" href="{{ '/about/' | url }}">ABOUT</a>
         </nav>
       </div>
-    </header>
+    </div>
     <main id="main" class="site-main">
       <div class="measure">
         {{ content | safe }}
@@ -36,7 +36,7 @@
     <footer class="site-footer">
       <div class="measure">
         <img class="ornament" src="{{ '/assets/ornaments/fleuron.svg' | url }}" alt="" aria-hidden="true" />
-        <p class="meta">Gardened by {{ site.author }} · <a href="{{ '/colophon/' | url }}">Colophon</a></p>
+        <p class="meta">&copy; {{ time.year }} {{ site.author }} · <a href="{{ '/colophon/' | url }}">Colophon</a></p>
       </div>
     </footer>
   </body>

@@ -1,6 +1,6 @@
-# Classical Garden (11ty)
+# matthewpaulmoore.com (11ty)
 
-A static Eleventy (11ty) blog tailored for GitHub Pages with classical book typography.
+My blog, a static Eleventy (11ty) blog tailored for GitHub Pages with classical book typography.
 
 ## Quick start
 
@@ -29,6 +29,5 @@ If your Pages URL uses a repository subpath, the workflow sets `ELEVENTY_PATH_PR
 - `src/` content and templates
 - `src/_includes/layouts/` layouts
 - `src/assets/` CSS + ornaments
-- `src/essays/`, `src/notes/`, `src/projects/` content collections
-- `src/plots/` per-plot archives + RSS
-- `src/tags/` tags index + tag archives
+- `src/notes/` content collection
+- `src/tags/` topics index + tag archives

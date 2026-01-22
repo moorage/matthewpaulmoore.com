@@ -7,6 +7,16 @@ function stripHtml(html) {
   return html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 }
 
+function toDateTime(value) {
+  if (value instanceof Date) {
+    return DateTime.fromJSDate(value, { zone: "utc" });
+  }
+  if (typeof value === "string") {
+    return DateTime.fromISO(value, { zone: "utc" });
+  }
+  return DateTime.invalid("Invalid date value");
+}
+
 function slugify(value) {
   return String(value)
     .toLowerCase()
@@ -30,65 +40,54 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/assets/css/");
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("LLLL d, yyyy");
+    const dt = toDateTime(dateObj);
+    if (!dt.isValid) {
+      console.warn("readableDate: invalid date", dateObj);
+      return "Undated";
+    }
+    return dt.toFormat("LLLL d, yyyy");
   });
 
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+    const dt = toDateTime(dateObj);
+    if (!dt.isValid) {
+      console.warn("htmlDateString: invalid date", dateObj);
+      return "";
+    }
+    return dt.toFormat("yyyy-LL-dd");
   });
 
   eleventyConfig.addFilter("slug", (value) => slugify(value));
-  eleventyConfig.addFilter("wherePlot", (items, plot) => {
-    return items.filter((item) => item.data.plot === plot);
-  });
 
-
-  eleventyConfig.addCollection("essays", (collectionApi) => {
-    return collectionApi
-      .getAll()
-      .filter((item) => item.data.type === "essay")
-      .sort((a, b) => b.date - a.date);
-  });
+  function isNote(item) {
+    if (item.data.type === "note") return true;
+    return Array.isArray(item.data.tags) && item.data.tags.includes("notes");
+  }
 
   eleventyConfig.addCollection("notes", (collectionApi) => {
     return collectionApi
-      .getAll()
-      .filter((item) => item.data.type === "note")
-      .sort((a, b) => b.date - a.date);
-  });
-
-  eleventyConfig.addCollection("projects", (collectionApi) => {
-    return collectionApi
-      .getAll()
-      .filter((item) => item.data.type === "project")
-      .sort((a, b) => b.date - a.date);
+      .getAllSorted()
+      .filter((item) => isNote(item))
+      .reverse();
   });
 
   eleventyConfig.addCollection("latestPosts", (collectionApi) => {
     return collectionApi
-      .getAll()
-      .filter((item) => ["essay", "note", "project"].includes(item.data.type))
-      .sort((a, b) => b.date - a.date);
+      .getAllSorted()
+      .filter((item) => isNote(item))
+      .reverse();
   });
 
   eleventyConfig.addCollection("featured", (collectionApi) => {
     return collectionApi
       .getAll()
-      .filter((item) => item.data.featured)
+      .filter((item) => item.data.featured && !isNote(item))
       .sort((a, b) => (a.data.featuredRank || 999) - (b.data.featuredRank || 999));
-  });
-
-  eleventyConfig.addCollection("plotList", (collectionApi) => {
-    const plots = new Set();
-    collectionApi.getAll().forEach((item) => {
-      if (item.data.plot) plots.add(item.data.plot);
-    });
-    return Array.from(plots).sort();
   });
 
   eleventyConfig.addCollection("tagList", (collectionApi) => {
     const tagSet = new Set();
-    const reserved = new Set(["all", "nav", "post", "posts", "essay", "note", "project"]);
+    const reserved = new Set(["all", "nav", "post", "posts", "note"]);
     collectionApi.getAll().forEach((item) => {
       (item.data.tags || []).forEach((tag) => {
         if (!reserved.has(tag)) tagSet.add(tag);
