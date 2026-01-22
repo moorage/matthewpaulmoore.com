@@ -1,0 +1,17 @@
+---
+layout: layouts/base.njk
+title: Tags
+---
+<section class="list">
+  <header class="list-header">
+    <p class="section-label">Tags</p>
+    <h1>Index of tags</h1>
+    <p class="lede">A map of recurring ideas.</p>
+    <img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
+  </header>
+  <ul class="tag-list">
+    {% for tag in collections.tagList %}
+    <li><a href="{{ '/tags/' | url }}{{ tag | slug }}/">{{ tag }}</a></li>
+    {% endfor %}
+  </ul>
+</section>

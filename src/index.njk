@@ -1,0 +1,80 @@
+---
+layout: layouts/base.njk
+title: Home
+---
+<section class="home-intro">
+  <p class="section-label">Welcome</p>
+  <h1>A quiet digital garden.</h1>
+  <p class="lede">This is a library of long-form essays, quick notes, and ongoing projects. Each page is written to be read slowly, like a book left open on a desk.</p>
+</section>
+
+<img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
+
+<section class="home-popular">
+  <p class="section-label">Popular</p>
+  <h2>Well-traveled paths</h2>
+  <ol class="post-list">
+    {% for item in collections.featured %}
+    <li>
+      <a href="{{ item.url | url }}">{{ item.data.title }}</a>
+      <span class="meta">{{ item.date | readableDate }}</span>
+      {% if item.data.subtitle %}<span class="meta">· {{ item.data.subtitle }}</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+
+<img class="ornament" src="{{ '/assets/ornaments/fleuron.svg' | url }}" alt="" aria-hidden="true" />
+
+<section class="home-latest">
+  <p class="section-label">Latest</p>
+  <h2>Freshly inked</h2>
+  <ol class="post-list">
+    {% for item in collections.latestPosts | slice(0, 5) %}
+    <li>
+      <a href="{{ item.url | url }}">{{ item.data.title }}</a>
+      <span class="meta">{{ item.date | readableDate }}</span>
+      <span class="meta">· {{ item.data.type | capitalize }}</span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+
+<img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
+
+<section class="home-sections">
+  <div class="section-grid">
+    <div>
+      <p class="section-label">Essays</p>
+      <p class="lede">Long-form arguments and slow thinking.</p>
+      <p><a href="{{ '/essays/' | url }}">Browse essays</a></p>
+    </div>
+    <div>
+      <p class="section-label">Notes</p>
+      <p class="lede">Short observations and fragments.</p>
+      <p><a href="{{ '/notes/' | url }}">Browse notes</a></p>
+    </div>
+    <div>
+      <p class="section-label">Projects</p>
+      <p class="lede">Works-in-progress and toolmaking.</p>
+      <p><a href="{{ '/projects/' | url }}">Browse projects</a></p>
+    </div>
+  </div>
+</section>
+
+<img class="ornament" src="{{ '/assets/ornaments/fleuron.svg' | url }}" alt="" aria-hidden="true" />
+
+<section class="home-indexes">
+  <p class="section-label">Indexes</p>
+  <h2>Maps of the garden</h2>
+  <p class="lede">Follow tags for themes, or plots for ongoing threads.</p>
+  <p>
+    <a href="{{ '/tags/' | url }}">Tags index</a>
+    ·
+    {% if collections.plotList.length %}
+      <a href="{{ '/plots/' | url }}{{ collections.plotList[0] | slug }}/">Plots</a>
+    {% else %}
+      Plots (add a plot to enable)
+    {% endif %}
+  </p>
+</section>

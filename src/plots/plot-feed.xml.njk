@@ -1,0 +1,25 @@
+---
+permalink: "/plots/{{ plot | slug }}/feed.xml"
+pagination:
+  data: collections.plotList
+  size: 1
+  alias: plot
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title }} · {{ plot }}</title>
+    <description>Entries in the {{ plot }} plot.</description>
+    <link>{{ site.url }}{{ '/plots/' | url }}{{ plot | slug }}/</link>
+    <lastBuildDate>{{ collections.latestPosts | wherePlot(plot) | getNewestCollectionItemDate | dateToRfc3339 }}</lastBuildDate>
+    {% for item in collections.latestPosts | wherePlot(plot) %}
+    <item>
+      <title>{{ item.data.title }}</title>
+      <link>{{ site.url }}{{ item.url | url }}</link>
+      <description>{{ item.templateContent | safe }}</description>
+      <pubDate>{{ item.date | dateToRfc3339 }}</pubDate>
+      <guid>{{ site.url }}{{ item.url | url }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

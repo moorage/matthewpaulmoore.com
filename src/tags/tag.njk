@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+permalink: "/tags/{{ tag | slug }}/index.html"
+---
+<section class="list">
+  <header class="list-header">
+    <p class="section-label">Tag</p>
+    <h1>{{ tag }}</h1>
+    <img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
+  </header>
+  <ol class="post-list">
+    {% for item in collections[tag] | reverse %}
+    <li>
+      <a href="{{ item.url | url }}">{{ item.data.title }}</a>
+      <span class="meta">{{ item.date | readableDate }}</span>
+      <span class="meta">· {{ item.data.type | capitalize }}</span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>

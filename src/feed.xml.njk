@@ -1,0 +1,21 @@
+---
+permalink: "/feed.xml"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title }}</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.url }}{{ '/' | url }}</link>
+    <lastBuildDate>{{ collections.latestPosts | getNewestCollectionItemDate | dateToRfc3339 }}</lastBuildDate>
+    {% for item in collections.latestPosts %}
+    <item>
+      <title>{{ item.data.title }}</title>
+      <link>{{ site.url }}{{ item.url | url }}</link>
+      <description>{{ item.templateContent | safe }}</description>
+      <pubDate>{{ item.date | dateToRfc3339 }}</pubDate>
+      <guid>{{ site.url }}{{ item.url | url }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
