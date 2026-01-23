@@ -48,6 +48,19 @@ module.exports = function (eleventyConfig) {
     return dt.toFormat("LLLL d, yyyy");
   });
 
+  eleventyConfig.addFilter("monthYear", (dateObj) => {
+    const dt = toDateTime(dateObj);
+    if (!dt.isValid) {
+      console.warn("monthYear: invalid date", dateObj);
+      return "";
+    }
+    const now = DateTime.now().setZone("utc");
+    if (dt.year === now.year) {
+      return dt.toFormat("LLL");
+    }
+    return dt.toFormat("LLL ''yy");
+  });
+
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     const dt = toDateTime(dateObj);
     if (!dt.isValid) {
@@ -79,9 +92,16 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("featured", (collectionApi) => {
+    const latestNotes = collectionApi
+      .getAllSorted()
+      .filter((item) => isNote(item))
+      .reverse();
+    const latestNoteUrls = new Set(
+      latestNotes.slice(0, 5).map((item) => item.url)
+    );
     return collectionApi
       .getAll()
-      .filter((item) => item.data.featured && !isNote(item))
+      .filter((item) => item.data.featured && !latestNoteUrls.has(item.url))
       .sort((a, b) => (a.data.featuredRank || 999) - (b.data.featuredRank || 999));
   });
 

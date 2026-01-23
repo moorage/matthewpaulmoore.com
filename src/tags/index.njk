@@ -7,9 +7,18 @@ title: Topics
     <h1>Index of topics</h1>
     <img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
   </header>
-  <ul class="tag-list">
+  <ul class="tag-list toc-list">
     {% for tag in collections.tagList %}
-    <li><a href="{{ '/tags/' | url }}{{ tag | slug }}/">{{ tag }}</a></li>
+    {% set tagCount = 0 %}
+    {% if collections[tag] %}
+      {% set tagCount = collections[tag].length %}
+    {% endif %}
+    <li>
+      <span class="toc-number">{{ loop.index }}.</span>
+      <a class="toc-title" href="{{ '/tags/' | url }}{{ tag | slug }}/">{{ tag }}</a>
+      <span class="toc-leader" aria-hidden="true"></span>
+      <span class="toc-count">{{ tagCount }}</span>
+    </li>
     {% endfor %}
   </ul>
 </section>

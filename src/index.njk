@@ -20,9 +20,11 @@ title: Home
     {% for item in collections.latestPosts %}
     {% if loop.index0 < 5 %}
     <li>
-      <a href="{{ item.url | url }}">{{ item.data.title }}</a>
-      <span class="meta">{{ item.date | readableDate }}</span>
-      <span class="meta">· {{ item.data.type | capitalize }}</span>
+      <span class="post-date">{{ item.date | monthYear }}</span>
+      <div class="post-info">
+        <a href="{{ item.url | url }}">{{ item.data.title }}</a>
+        {% if item.data.subtitle %}<div class="post-subtitle">{{ item.data.subtitle }}</div>{% endif %}
+      </div>
     </li>
     {% endif %}
     {% endfor %}
@@ -36,9 +38,11 @@ title: Home
   <ol class="post-list">
     {% for item in collections.featured %}
     <li>
-      <a href="{{ item.url | url }}">{{ item.data.title }}</a>
-      <span class="meta">{{ item.date | readableDate }}</span>
-      {% if item.data.subtitle %}<span class="meta">· {{ item.data.subtitle }}</span>{% endif %}
+      <span class="post-date">{{ item.date | monthYear }}</span>
+      <div class="post-info">
+        <a href="{{ item.url | url }}">{{ item.data.title }}</a>
+        {% if item.data.subtitle %}<div class="post-subtitle">{{ item.data.subtitle }}</div>{% endif %}
+      </div>
     </li>
     {% endfor %}
   </ol>

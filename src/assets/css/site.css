@@ -53,7 +53,7 @@ img {
 }
 
 .measure {
-  max-width: 70ch;
+  max-width: 85ch;
   margin: 0 auto;
   padding: 0 var(--space-6);
 }
@@ -80,7 +80,7 @@ img {
 }
 
 .top-bar__inner {
-  max-width: 70ch;
+  max-width: 85ch;
   margin: 0 auto;
   padding: 0 var(--space-6);
   display: flex;
@@ -229,14 +229,25 @@ img {
 
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5,
+h6 {
   font-weight: 600;
-  margin: var(--space-6) 0 var(--space-3);
 }
 
 h1 {
+  margin: var(--space-6) 0 var(--space-3);
   font-size: var(--size-h1);
   line-height: var(--line-h1);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: var(--space-8) 0 var(--space-3);
 }
 
 h2 {
@@ -259,6 +270,7 @@ p {
 li {
   font-size: 21px;
   line-height: 31px;
+  margin-bottom: var(--space-3);
 }
 
 p + p {
@@ -338,7 +350,52 @@ a:focus-visible {
 }
 
 .post-list li {
+  display: grid;
+  grid-template-columns: minmax(4ch, 9ch) 1fr;
+  column-gap: var(--space-4);
+  align-items: start;
   margin-bottom: var(--space-3);
+}
+
+.post-date {
+  font-family: var(--font-body);
+  font-size: var(--size-small);
+  line-height: var(--line-small);
+  font-style: italic;
+  color: rgba(26, 26, 22, 0.85);
+  text-align: right;
+  align-self: start;
+  padding-top: 0.5em;
+}
+
+.post-info a {
+  display: inline-block;
+}
+
+.post-subtitle {
+  margin-top: var(--space-1);
+  font-family: var(--font-body);
+  font-size: 19px;
+  line-height: 28px;
+  color: rgba(26, 26, 22, 0.7);
+}
+
+.post-tags {
+  margin-top: var(--space-2);
+  margin-bottom: var(--space-3);
+  padding-left: 0;
+  font-style: italic;
+  text-indent: 0;
+}
+
+.post-tags a {
+  color: var(--accent);
+  text-decoration: none;
+  text-underline-offset: 0.18em;
+}
+
+.post-tags a:hover {
+  text-decoration: underline;
 }
 
 .post-list .meta {
@@ -352,6 +409,47 @@ a:focus-visible {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-2) var(--space-4);
+}
+
+.toc-list {
+  display: block;
+}
+
+.toc-list li {
+  display: grid;
+  grid-template-columns: 3ch auto 1fr auto;
+  align-items: baseline;
+  column-gap: var(--space-3);
+  padding: var(--space-2) 0;
+  margin: 0;
+}
+
+.toc-number {
+  font-family: var(--font-body);
+  font-size: var(--size-small);
+  font-style: italic;
+  color: rgba(26, 26, 22, 0.7);
+  text-align: right;
+}
+
+.toc-title {
+  text-decoration: none;
+}
+
+.toc-title:hover {
+  text-decoration: underline;
+}
+
+.toc-leader {
+  border-bottom: 1px dotted rgba(26, 26, 22, 0.35);
+  transform: translateY(-2px);
+}
+
+.toc-count {
+  font-family: var(--font-body);
+  font-size: var(--size-small);
+  color: rgba(26, 26, 22, 0.7);
+  padding-left: var(--space-2);
 }
 
 .content {

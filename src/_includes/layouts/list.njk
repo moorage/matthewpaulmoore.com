@@ -11,14 +11,16 @@ layout: layouts/base.njk
     {% for item in collections.notes %}
     <li>
       {% set displayTitle = item.data.title or item.fileSlug or "Untitled" %}
-      <a href="{{ item.url | url }}">{{ displayTitle }}</a>
-      <span class="meta">{{ (item.data.date or item.date) | readableDate }}</span>
-      {% if item.data.subtitle %}<span class="meta">· {{ item.data.subtitle }}</span>{% endif %}
-      {% if item.data.tags %}
-      <span class="meta">
-        · {% for tag in item.data.tags %}<a href="{{ '/tags/' | url }}{{ tag | slug }}/">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
-      </span>
-      {% endif %}
+      <span class="post-date">{{ (item.data.date or item.date) | monthYear }}</span>
+      <div class="post-info">
+        <a href="{{ item.url | url }}">{{ displayTitle }}</a>
+        {% if item.data.subtitle %}<div class="post-subtitle">{{ item.data.subtitle }}</div>{% endif %}
+        {% if item.data.tags %}
+        <div class="post-tags meta">
+          {% for tag in item.data.tags %}<a href="{{ '/tags/' | url }}{{ tag | slug }}/">{{ tag }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+        </div>
+        {% endif %}
+      </div>
     </li>
     {% endfor %}
   </ol>
