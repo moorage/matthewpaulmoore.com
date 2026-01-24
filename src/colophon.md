@@ -11,7 +11,7 @@ Source: https://github.com/moorage/matthewpaulmoore.com
 
 **Typography**
 
-- Body text set in EB Garamond.
+- Body text set in Cormorant Garamond.
 - UI and metadata set in Source Sans 3.
 
 **Tools**

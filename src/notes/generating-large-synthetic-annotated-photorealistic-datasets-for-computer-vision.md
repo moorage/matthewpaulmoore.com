@@ -11,7 +11,7 @@ tags:
 ---
 ![](/assets/images/notes/generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision/1*QeeQJCqJfHF45aUI0zvrCg.jpeg)
 
-I’d like to introduce you to the beta of a tool we’ve been working on at Greppy, called Greppy Metaverse (*UPDATE Feb 18, 2020:* [*Synthesis AI*](https://synthesis.ai/) *has acquired this software, so please contact them at* [*synthesis.ai*](https://synthesis.ai/)!), which assists with computer vision object recognition / semantic segmentation / instance segmentation, by making it quick and easy to generate a lot of training data for machine learning. *(Aside: Synthesis AI also love to help on your project if they can — contact them at* [https://synthesis.ai/contact/](https://synthesis.ai/contact/) *or* [*on LinkedIn*](https://www.linkedin.com/company/synthesis-ai/)*).*
+I’d like to introduce you to the beta of a tool we’ve been working on at Greppy, called Greppy Metaverse (*UPDATE Feb 18, 2020:* [*Synthesis AI*](https://synthesis.ai/about-us/) *has acquired this software, so please contact them at* [*synthesis.ai*](https://synthesis.ai/about-us/)!), which assists with computer vision object recognition / semantic segmentation / instance segmentation, by making it quick and easy to generate a lot of training data for machine learning. *(Aside: Synthesis AI also love to help on your project if they can — contact them at* [https://synthesis.ai/about-us/contact/](https://synthesis.ai/about-us/contact/) *or* [*on LinkedIn*](https://www.linkedin.com/company/synthesis-ai/)*).*
 
 If you’ve done image recognition in the past, you’ll know that the size and accuracy of your dataset is important. All of your scenes need to be annotated, too, which can mean thousands or tens-of-thousands of images. That amount of time and effort wasn’t scalable for our small team.
 
@@ -21,7 +21,7 @@ So, we invented a tool that makes creating large, annotated datasets orders of m
 
 We’ve even open-sourced our [VertuoPlus Deluxe Silver dataset](https://drive.google.com/file/d/1J4fnNh9IaXa6gkqbU93V2RmZStr8M9Bf/view?usp=sharing) with 1,000 scenes of the coffee machine, so you can play along! It’s a [6.3 GB download](https://drive.google.com/file/d/1J4fnNh9IaXa6gkqbU93V2RmZStr8M9Bf/view?usp=sharing).
 
-To demonstrate its capabilities, I’ll bring you through a real example here at Greppy, where we needed to recognize our coffee machine and its buttons with a [Intel Realsense D435](https://click.intel.com/intelr-realsensetm-depth-camera-d435.html) depth camera. More to come in the future on *why* we want to recognize our coffee machine, but suffice it to say we’re in need of caffeine more often than not.
+To demonstrate its capabilities, I’ll bring you through a real example here at Greppy, where we needed to recognize our coffee machine and its buttons with a [Intel Realsense D435](https://www.intelrealsense.com/depth-camera-d435/) depth camera. More to come in the future on *why* we want to recognize our coffee machine, but suffice it to say we’re in need of caffeine more often than not.
 
 ![](/assets/images/notes/generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision/1*XL3b1-iN6aBuCnvUMi3tIg.png)
 
@@ -91,7 +91,7 @@ Example outputs for a single scene is below:
 
 With the entire dataset generated, it’s straightforward to use it to train a Mask-RCNN model (there’s a good [post on the history of Mask-RCNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)). In a follow up post, we’ll open-source the code we’ve used for training 3D instance segmentation from a Greppy Metaverse dataset, using the [Matterport implementation of Mask-RCNN](https://github.com/matterport/Mask_RCNN).
 
-In the meantime, here’s a little preview. Here’s raw capture data from the [Intel RealSense D435](https://click.intel.com/intelr-realsensetm-depth-camera-d435.html) camera, with RGB on the left, and aligned depth on the right (making up 4 channels total of RGB-D):
+In the meantime, here’s a little preview. Here’s raw capture data from the [Intel RealSense D435](https://www.intelrealsense.com/depth-camera-d435/) camera, with RGB on the left, and aligned depth on the right (making up 4 channels total of RGB-D):
 
 ![](/assets/images/notes/generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision/1*ZCNI1zORcCbeteIgKu01Jg.jpeg)
 

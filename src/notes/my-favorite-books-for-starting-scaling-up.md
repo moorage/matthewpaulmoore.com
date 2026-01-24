@@ -102,7 +102,7 @@ My thoughts of course, are just my humble opinion.
 - [**Caesar**: Life of a Colossus](https://www.amazon.com/Caesar-Life-Colossus-Adrian-Goldsworthy/dp/0300126891) by Adrian Goldsworthy
 - [May I Have Your Attention Please?](https://www.amazon.com/Have-Your-Attention-Please-Autobiography/dp/1846059356/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by **James Corden**
 - [The **Art of War**](https://www.amazon.com/Art-War-Sun-Tzu/dp/1936276011) by Sun Tzu
-- [Food: A **Cultural Culinary History**](https://www.thegreatcourses.com/courses/food-a-cultural-culinary-history.html) by The Great Courses
+- [Food: A **Cultural Culinary History**](https://www.thegreatcourses.com/courses/food-a-cultural-culinary-history) by The Great Courses
 - [**The Omnivore’s Dilemma**: A Natural History of Four Meals](https://www.amazon.com/Omnivores-Dilemma-Natural-History-Meals/dp/0143038583) by Michael Pollan
 - [The Better Angels of Our Nature: **Why Violence Has Declined**](https://www.amazon.com/Better-Angels-Our-Nature-Violence/dp/0143122010) by Steven Pinker
 - [Failure Is Not an Option: **Mission Control from Mercury to Apollo 13** and Beyond](https://www.amazon.com/Failure-Not-Option-Mission-Control/dp/1439148813) by Gene Kranz

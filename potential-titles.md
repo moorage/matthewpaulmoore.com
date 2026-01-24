@@ -1,0 +1,169 @@
+# Potential Titles
+
+- `src/notes/steve-wozniak-debunks-one-of-apples-biggest-myths.md`: Steve Wozniak Debunks One of Apple's Biggest Myths
+- `src/notes/an-illustrated-history-of-mac-os-x.md`: An Illustrated History of Mac OS X
+- `src/notes/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation.md`: Open sourcing our pitch deck that helped us get our $865M valuation
+- `src/notes/iced-coffee-kegs.md`: Iced Coffee Kegs
+- `src/notes/how-to-speak-so-that-people-want-to-listen.md`: How to speak so that people want to listen
+- `src/notes/meet-the-27-year-old-inventor-backed-by-bill-gates-and-peter-thiel.md`: Meet the 27-year-old inventor backed by Bill Gates and Peter Thiel
+- `src/notes/follow-up-to-mit-blonde-engineer.md`: Follow-Up To MIT Blonde Engineer
+- `src/notes/the-story-spine.md`: The Story Spine
+- `src/notes/showerthoughts-i-just-had-a-minor-epiphany.md`: #ShowerThoughts: I just had a minor epiphany
+- `src/notes/the-men-who-built-america.md`: The Men Who Built America
+- `src/notes/amazon-com.md`: Amazon.com
+- `src/notes/just-read-the-afterword-of-creativity-inc-and-cried.md`: Just read the afterword of “Creativity, Inc.” and cried
+- `src/notes/10-necessary-traits-of-pms-that-cant-be-taught-link.md`: 10 Necessary Traits of PMs that Can’t be Taught
+- `src/notes/book-discussion-on-the-second-coming-of-steve-jobs.md`: Book Discussion on [The Second Coming of Steve Jobs]
+- `src/notes/my-so-called-virtual-life.md`: My So-Called Virtual Life
+- `src/notes/nice-is-a-four-letter-word-at-companies-practicing-radical-candor.md`: ‘Nice’ Is a Four-Letter Word at Companies Practicing Radical Candor
+- `src/notes/chris-sacca-on-shark-tank-building-your-business-and-startup-mistakes.md`: Chris Sacca on Shark Tank, Building Your Business, and Startup Mistakes
+- `src/notes/the-5-roles-of-product-development-link.md`: The 5 roles of product development
+- `src/notes/inventor-labs-blog.md`: Inventor Labs Blog
+- `src/notes/the-internet-of-things-will-be-the-worlds-biggest-robot.md`: The Internet of Things Will Be the World's Biggest Robot
+- `src/notes/a-short-note.md`: A short note
+- `src/notes/letter-to-a-young-woman-in-engineering.md`: Letter to a Young Woman in Engineering
+- `src/notes/mentalhealtherror.md`: MentalHealthError
+- `src/notes/the-nc-barbecue-society-historic-trail.md`: The NC Barbecue Society Historic Trail
+- `src/notes/the-multi-billion-dollar-robotics-market-is-about-to-boom.md`: The Multi-Billion Dollar Robotics Market Is About to Boom
+- `src/notes/ask-dharmesh-about-the-hubspot-culture-code.md`: Ask Dharmesh About The HubSpot Culture Code
+- `src/notes/john-carmack-on-idea-generation.md`: John Carmack on Idea Generation
+- `src/notes/facebooks-messenger-bot-store-could-be-the-most-important-launch-since-the-app-store.md`: Facebook’s Messenger Bot Store could be the most important launch since the App Store
+- `src/notes/a-better-offer-letter.md`: A better offer letter
+- `src/notes/postman.md`: Postman
+- `src/notes/meet-facebooks-most-successful-alum.md`: Meet Facebook’s Most Successful Alum
+- `src/notes/pbts-dris-okrs-zomg.md`: PBTs + DRIs + OKRs = ZOMG
+- `src/notes/staying-one-step-ahead-at-pixar.md`: Staying one step ahead at Pixar
+- `src/notes/recommendations-for-startup-employee-option-plans.md`: Recommendations for Startup Employee Option Plans
+- `src/notes/stop-saying-hardware-is-hard.md`: Stop Saying “Hardware is Hard”
+- `src/notes/product-reviews.md`: Product Reviews
+- `src/notes/what-great-listeners-actually-do.md`: What Great Listeners Actually Do
+- `src/notes/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple.md`: An Exclusive Look at How AI and Machine Learning Work at Apple
+- `src/notes/e665.md`: E665
+- `src/notes/e666.md`: E666
+- `src/notes/how-to-think-like-elon-musk.md`: How to Think Like Elon Musk
+- `src/notes/the-things-we-really-need-are-getting-more-expensive.md`: The things we really need are getting more expensive
+- `src/notes/lessons-on-success-from-an-arab-businesswoman.md`: lessons on success from an Arab businesswoman
+- `src/notes/a-philosophers-350-year-old-trick-to-get-people-to-change-their-minds-is-now-backed-up-by-psychologists.md`: A philosopher’s 350-year-old trick to get people to change their minds is now backed up by psychologists
+- `src/notes/pure-genius.md`: Pure Genius
+- `src/notes/the-five-types-of-virality.md`: The Five Types of Virality
+- `src/notes/building-a-shop-with-sub-second-page-loads.md`: Building a Shop with Sub-Second Page Loads
+- `src/notes/investor-updates.md`: Investor updates
+- `src/notes/h-264-is-magic.md`: H.264 is magic
+- `src/notes/48-of-americans-left-behind-by-the-global-information-age.md`: 48% of Americans Left Behind by the Global Information Age
+- `src/notes/what-every-founder-should-constantly-be-thinking-about.md`: What Every Founder Should Constantly Be Thinking About
+- `src/notes/developer-y-cs-video-courses.md`: Developer-Y/cs-video-courses
+- `src/notes/the-end-of-cloud-computing.md`: The End of Cloud Computing
+- `src/notes/published-for-the-first-time.md`: Published for the First Time
+- `src/notes/are-you-a-giver-or-a-taker.md`: Are you a giver or a taker
+- `src/notes/steve-jobs-and-jeff-bezos-meet-ginger.md`: Steve Jobs and Jeff Bezos meet \"Ginger\
+- `src/notes/nonviolent-communication.md`: Nonviolent Communication
+- `src/notes/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work.md`: If Your Boss Could Do Your Job, You’re More Likely to Be Happy at Work
+- `src/notes/warren-buffetts-best-investment.md`: Warren Buffett’s Best Investment
+- `src/notes/pixar-offers-free-online-lessons-in-storytelling-via-khan-academy.md`: Pixar offers free online lessons in storytelling via Khan Academy
+- `src/notes/reflecting-on-one-very-very-strange-year-at-uber.md`: Reflecting on one very, very strange year at Uber
+- `src/notes/by-littleplanetfactory.md`: by LittlePlanetFactory
+- `src/notes/support-smoothcontrol.md`: Support SmoothControl
+- `src/notes/to-raise-brave-girls-encourage-adventure.md`: To raise brave girls, encourage adventure
+- `src/notes/ben-horowitz-to-create-culture-start-a-revolution.md`: Ben Horowitz: To Create Culture, Start A Revolution
+- `src/notes/creating-usability-with-motion.md`: Creating Usability with Motion
+- `src/notes/onboarding-a-new-product-manager.md`: Onboarding a New Product Manager
+- `src/notes/building-a-startup-build-an-audience-first.md`: Building a startup? Build an audience, first
+- `src/notes/a-short-note-link.md`: A short note
+- `src/notes/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer.md`: How to not suck at design, a 5 minute guide for the non-designer
+- `src/notes/what-it-takes-to-get-funded-by-a-tier-1-vc-firm-in-the-valley.md`: What It Takes To Get Funded By A Tier #1 VC Firm In The Valley
+- `src/notes/forget-self-esteem-try-self-compassion-instead.md`: Forget Self-Esteem—Try Self-Compassion Instead
+- `src/notes/amazon-creating-a-place-for-hundreds-of-homeless-on-its-shiny-new-seattle-campus.md`: Amazon creating a place for hundreds of homeless on its shiny new Seattle campus
+- `src/notes/apples-new-campus.md`: Apple’s New Campus
+- `src/notes/ken-norton.md`: Ken Norton
+- `src/notes/the-secret-origin-story-of-the-iphone.md`: The secret origin story of the iPhone
+- `src/notes/5-keys-to-unlocking-your-inner-beast-mode.md`: 5 Keys to Unlocking Your Inner Beast Mode
+- `src/notes/why-this-4-000-renault-is-as-disruptive-as-the-tesla-model-3.md`: Why This $4,000 Renault Is as Disruptive as the Tesla Model 3
+- `src/notes/15-ways-a-venture-capitalist-says-no.md`: 15+ Ways a Venture Capitalist Says “No”
+- `src/notes/amazons-jeff-bezos-explains-why-we-love-some-companies-and-fear-others.md`: Amazon's Jeff Bezos Explains Why We Love Some Companies And Fear Others
+- `src/notes/how-i-like-to-hire-engineers-link.md`: How I Like to Hire Engineers
+- `src/notes/through-stanford-brain-research-the-depressed-feel-whole-again.md`: Through Stanford brain research, the depressed feel 'whole' again
+- `src/notes/why-now.md`: Why now
+- `src/notes/cs-007.md`: CS 007
+- `src/notes/dont-forget-these-topics-in-your-1-1s-as-a-manager.md`: Don’t Forget These Topics in Your 1:1s as a Manager
+- `src/notes/young-steve-jobs-on-how-to-hire-manage-and-lead-people.md`: Young Steve Jobs on how to hire, manage, and lead people
+- `src/notes/my-favorite-books-for-starting-and-scaling-up.md`: My Favorite Books for Starting & Scaling Up
+- `src/notes/the-amazon-machine.md`: The Amazon machine
+- `src/notes/visual-capitalist.md`: Visual Capitalist
+- `src/notes/your-companys-culture-is-who-you-hire-fire-and-promote.md`: Your Company’s Culture is Who You Hire, Fire, & Promote
+- `src/notes/design-principles.md`: Design Principles
+- `src/notes/see-how-the-rest-of-the-world-lives-organized-by-income.md`: See how the rest of the world lives, organized by income
+- `src/notes/why-i-dont-use-my-real-photo-when-messaging-with-customers-on-my-website-kapwing-blog.md`: Why I don't use my real photo when messaging with customers on my website · Kapwing Blog
+- `src/notes/ycs-series-a-diligence-checklist.md`: YC’s Series A Diligence Checklist
+- `src/notes/a-crash-course.md`: A Crash Course
+- `src/notes/how-to-reach-alpha-centauri-in-just-20-years.md`: How to reach Alpha Centauri in just 20 years
+- `src/notes/fractal-lab.md`: Fractal Lab
+- `src/notes/early-startups.md`: Early Startups
+- `src/notes/if-you-want-to-be-massively-successful-do-not-set-ambitious-goals-according-to-studies.md`: If you want to be massively successful, do NOT set ambitious goals, according to studies
+- `src/notes/30-legendary-startup-pitch-decks-and-what-you-can-learn-from-them.md`: 30 Legendary Startup Pitch Decks And What You Can Learn From Them
+- `src/notes/steve-blank-startup-stock-options.md`: Steve Blank Startup Stock Options
+- `src/notes/e23-angel.md`: E23 \"Angel\
+- `src/notes/customer-experience-user-experience.md`: Customer Experience ≫ User Experience
+- `src/notes/coke-zero-green-iced-tea-is-my-lsd.md`: Coke Zero + Green Iced Tea is my LSD
+- `src/notes/is-our-society-increasing-in-conspicuous-consumption-or-decreasing.md`: Is our society increasing in conspicuous consumption, or decreasing
+- `src/notes/complete-list-of-final-sales-prices-for-christies-auction.md`: Complete list of Final Sales Prices for Christie's Auction
+- `src/notes/marketing-inspiration.md`: Marketing Inspiration
+- `src/notes/i-think-steve-jobs-was-one-of-the-best-students-of-humankind-ever.md`: I think Steve Jobs was one of the best students of humankind, ever
+- `src/notes/great-answer-to-what-makes-a-good-engineering-culture.md`: Great answer to \"What makes a good engineering culture?\
+- `src/notes/stress-worry-only-about-the-things-directly-in-your-control.md`: Stress/Worry only about the things directly in your control
+- `src/notes/be-careful-about-inhaling-your-own-smoke.md`: Be careful about inhaling your own smoke
+- `src/notes/paul-dejoes-amazing-answer-to-what-does-it-feel-like-to-be-the-ceo-of-a-start-up.md`: Paul DeJoe's amazing answer to What does it feel like to be the CEO of a start-up
+- `src/notes/the-google-mantra-dont-be-evil-has-really-bothered-me-for-a-long-time-but-i-couldnt-put-my-finger-on-why.md`: The Google mantra “don’t be evil” has really bothered me for a long time, but I couldn’t put my finger on why
+- `src/notes/social-capital-is-the-root-of-all-viral-distribution.md`: Social capital is the root of all viral distribution
+- `src/notes/ian-mcallisters-amazing-quora-answer-to.md`: Ian McAllister's amazing Quora answer to
+- `src/notes/dont-add-multiply-in-everything-you-do.md`: Don’t add, multiply. In everything you do
+- `src/notes/there-are-only-2-basic-things-that-ultimately-matter-in-entrepreneurship.md`: There are only 2 basic things that ultimately matter in entrepreneurship
+- `src/notes/want-to-make-an-impact-in-the-merchant-space.md`: Want to make an impact in the merchant space
+- `src/notes/never-raised-money-before.md`: Never raised money before
+- `src/notes/a-great-anonymous-answer-to-quora-question.md`: A great (anonymous) answer to Quora question
+- `src/notes/tell-me-about-balmer.md`: Tell me about Balmer
+- `src/notes/great-leadership.md`: Great leadership
+- `src/notes/life-is-too-short-to-work-with-anyone-but-the-most-brilliant-people-you-can-find.md`: Life is too short to work with anyone but the most brilliant people you can find
+- `src/notes/goodbye-office-parks.md`: Goodbye, office parks
+- `src/notes/jiro-dreams-of-sushi.md`: Jiro Dreams of Sushi
+- `src/notes/wow.md`: WOW
+- `src/notes/the-aha-moments-that-made-paul-grahams-y-combinator-possible.md`: The Aha! Moments That Made Paul Graham's Y Combinator Possible
+- `src/notes/amazing-thread-on-hn.md`: Amazing Thread on HN
+- `src/notes/correctly-value-your-startup-job-offer.md`: Correctly value your startup job offer
+- `src/notes/another-cool-quora-thread.md`: Another cool Quora Thread
+- `src/notes/pixars-22-rules-of-storytelling.md`: Pixar’s 22 Rules of Storytelling
+- `src/notes/most-lives-are-lived-by-default-by-david-raptitude.md`: Most lives are lived by default by David @ Raptitude
+- `src/notes/what-is-the-nicest-thing-youve-ever-done-that-no-one-knows-about.md`: What is the nicest thing you've ever done that no one knows about
+- `src/notes/would-steve-jobs-and-steve-wozniak-have-joined-an-incubator.md`: Would Steve Jobs and Steve Wozniak have joined an incubator
+- `src/notes/startup-investing-trends-of-2013.md`: Startup Investing Trends of 2013
+- `src/notes/42-rules-to-lead-by-from-jonathan-rosenberg-link.md`: 42 Rules to Lead by, from Jonathan Rosenberg
+- `src/notes/resume.md`: Resume
+- `src/notes/10-of-the-most-counterintuitive-pieces-of-advice-from-famous-entrepreneurs.md`: 10 of the most counterintuitive pieces of advice from famous entrepreneurs
+- `src/notes/kindergarten-coders-can-program-before-they-can-read.md`: Kindergarten coders can program before they can read
+- `src/notes/ucla-scientists-double-efficiency-of-novel-solar-cell.md`: UCLA scientists double efficiency of novel solar cell
+- `src/notes/android-fragmentation-visualization-july-2013.md`: Android Fragmentation Visualization (July 2013)
+- `src/notes/jetstrap.md`: Jetstrap
+- `src/notes/what-is-the-engineering-interview-process-like-at-stripe.md`: What is the engineering interview process like at Stripe
+- `src/notes/what-i-learned-from-getting-my-side-project-acquired.md`: What I learned from getting my side project acquired
+- `src/notes/the-secrets-of-bezos.md`: The Secrets of Bezos
+- `src/notes/bti360.md`: BTI360
+- `src/notes/flying-x-wings-into-the-death-star.md`: Flying X-Wings into the Death Star
+- `src/notes/10-corporations-control-almost-everything-you-buy-this-chart-shows-how.md`: 10 Corporations Control Almost Everything You Buy â This Chart Shows How
+- `src/notes/diy-robots.md`: #DIY #robots
+- `src/notes/robotics.md`: #robotics
+- `src/notes/grippy-not-sticky.md`: Grippy not sticky
+- `src/notes/watch-the-hyqreal-robot-pull-an-airplane.md`: Watch the HyQReal Robot Pull an Airplane
+- `src/notes/how-i-learned-to-stop-giving-advice.md`: How I learned to stop giving advice
+- `src/notes/so-you-want-to-get-into-mobile-advertising-link.md`: So You Want to Get Into Mobile Advertising
+- `src/notes/milestone-ordering-for-entrepreneurs-link.md`: Milestone Ordering for Entrepreneurs
+- `src/notes/userhub.md`: UserHub
+- `src/notes/gigs-using-the-go-programming-language.md`: Gigs Using the Go Programming Language
+- `src/notes/carbon-data.md`: Carbon Data
+- `src/notes/33-unbelievable-places-to-visit-before-you-die.md`: 33 Unbelievable Places To Visit Before You Die
+- `src/notes/meet-the-man-building-an-ai-that-mimics-our-neocortex.md`: Meet the man building an AI that mimics our neocortex
+- `src/notes/intels-tiny-3g-modem-will-put-always-on-data-in-your-smartwatch.md`: Intel's tiny 3G modem will put always-on data in your smartwatch
+- `src/notes/we-analyzed-nearly-1-million-headlines.md`: We Analyzed Nearly 1 Million Headlines
+- `src/notes/i-h2go-hydrogen-car.md`: i-H2GO Hydrogen Car
+- `src/notes/scientists-mapped-8-000-galaxies-surrounding-us-and-found-this-amazing-discovery.md`: Scientists Mapped 8,000 Galaxies Surrounding Us And Found *This* Amazing Discovery
+- `src/notes/mit-energy-scavenger-harvests-power-from-light-vibrations-and-heat.md`: MIT Energy Scavenger Harvests Power from Light, Vibrations, and Heat
+- `src/notes/shapeways.md`: Shapeways
+- `src/notes/brick-by-brick.md`: Brick by Brick

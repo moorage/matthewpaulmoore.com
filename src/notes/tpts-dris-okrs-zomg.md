@@ -16,7 +16,7 @@ Something funny inevitably happens when a product development team grows to 20�
 
 I’ve tried different mixes of organizational strategies to combat this at my own startups, at medium and large companies like Google, and in companies I’ve advised. The magic combination I’ve found to work best (although never perfectly) is:
 
-> [**Two Pizza Teams**](http://blog.idonethis.com/two-pizza-team/) of people fed by 2 pizzas max, *comprising* [**Directly Responsible (Cross-Functional) Individuals**](http://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#1d0459db704b) for task shepherding, *held accountable by* [**Objectives & Key Results**](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.2l351i1hf).
+> [**Two Pizza Teams**](https://idonethis.com/blog/two-pizza-team/) of people fed by 2 pizzas max, *comprising* [**Directly Responsible (Cross-Functional) Individuals**](http://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#1d0459db704b) for task shepherding, *held accountable by* [**Objectives & Key Results**](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.2l351i1hf).
 
 Of course, if you clicked on the links above, I came up with zero of those ideas. I’ve borrowed PBTs from Jeff Bezos, DRIs from Apple, and OKRs from Intel and Google (originally called [MBO](https://en.wikipedia.org/wiki/Management_by_objectives) by Peter Drucker). Let me dive in to how the best teams I’ve been on actually use all of these practices together.
 

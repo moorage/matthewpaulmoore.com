@@ -1,0 +1,536 @@
+Link check report (UTC): 2026-01-24T06:44:43.985737Z
+Notes scanned: 278
+Links found: 512
+
+10-necessary-traits-of-pms-that-cant-be-taught.md
+  http://www.thebuffett.com/quotes/How-to-Think-About-Businesses.html#i52
+  status: ERROR
+  info: timed out
+
+10-necessary-traits-of-pms-that-cant-be-taught.md
+  https://ca.linkedin.com/in/marcin-mizianty-4760032
+  status: 999
+
+10-necessary-traits-of-pms-that-cant-be-taught.md
+  https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10
+  status: 403
+
+4-un-trainable-attributes-of-wildly-successful-people.md
+  http://www.youngentrepreneur.com/blog/2008/01/22/hang-out-with-people-better-than-you-warren-buffet/
+  status: 404
+
+a-good-place-to-work-and-a-world-changing-product.md
+  http://www.macworld.com/article/1162827/steve_jobs_making_a_dent_in_the_universe.html
+  status: 404
+
+aascend-job-club-for-people-on-the-autism-spectrum.md
+  https://m3moore.s3.amazonaws.com/AASCEND%20Job%20Club.pdf
+  status: 404
+
+aascend-job-club-for-people-on-the-autism-spectrum.md
+  http://twitter.com/m3moore
+  status: 520
+
+aascend-job-club-for-people-on-the-autism-spectrum.md
+  http://www.google.com/profiles/m3moore
+  status: 404
+
+about-me-my-blog.md
+  http://www.pogolinux.com
+  status: ERROR
+  info: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+
+about-me-my-blog.md
+  http://www.thrivesmarthq.com
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+citizen-effect-platform-goes-open-source.md
+  http://www.linkedin.com/pub/dan-morrison/0/42b/a16
+  status: 999
+
+citizen-effect-platform-goes-open-source.md
+  https://github.com/mattbailey0/citizeneffect-opensource-project
+  status: 404
+
+entrepreneurs-never-forget-distribution-is-king.md
+  http://andrewchen.typepad.com/andrew_chens_blog/2007/09/fundamentally-v.html
+  status: 403
+
+entrepreneurs-never-forget-distribution-is-king.md
+  http://blog.guykawasaki.com/2006/09/the_art_of_dist_1.html
+  status: 404
+
+entrepreneurs-never-forget-distribution-is-king.md
+  http://blog.searchenginewatch.com/blog/060807-174705
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+entrepreneurs-never-forget-distribution-is-king.md
+  http://blogs.zdnet.com/BTL/wp-mobile.php?p=5214
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+entrepreneurs-never-forget-distribution-is-king.md
+  http://inventors.about.com/library/weekly/aa033099.htm
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+entrepreneurs-never-forget-distribution-is-king.md
+  http://paul.kedrosky.com/archives/2007/06/03/favorite_three.html
+  status: 403
+
+entrepreneurs-never-forget-distribution-is-king.md
+  http://www.google.com/support/jobs/bin/topic.py?dep_id=1089&loc_id=1100
+  status: 404
+
+entrepreneurs-never-forget-distribution-is-king.md
+  http://www.seowacko.com/
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+f8-ipo-great-job-facebook.md
+  http://www.vgsummit.com/
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision.md
+  https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4
+  status: ERROR
+  info: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+
+generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision.md
+  https://click.intel.com/intelr-realsensetm-depth-camera-d435.html
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision.md
+  https://drive.google.com/file/d/1J4fnNh9IaXa6gkqbU93V2RmZStr8M9Bf/view?usp=sharing
+  status: 404
+
+generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision.md
+  https://drive.google.com/open?id=1J4fnNh9IaXa6gkqbU93V2RmZStr8M9Bf
+  status: 404
+
+generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision.md
+  https://en.wikipedia.org/wiki/Ray_tracing_(graphics
+  status: 404
+
+generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision.md
+  https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
+  status: ERROR
+  info: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+
+generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision.md
+  https://synthesis.ai/
+  status: ERROR
+  info: <urlopen error [Errno 61] Connection refused>
+
+generating-large-synthetic-annotated-photorealistic-datasets-for-computer-vision.md
+  https://synthesis.ai/contact/
+  status: ERROR
+  info: <urlopen error [Errno 61] Connection refused>
+
+how-do-you-sell-a-tale-of-two-andys.md
+  http://www.montereysymposium.com/
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+how-do-you-sell-a-tale-of-two-andys.md
+  http://www.thrivesmart.com/sprout
+  status: 404
+
+is-slow-better-than-really-fast.md
+  http://edcorner.stanford.edu/authorMaterialInfo.html?mid=1568
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+is-slow-better-than-really-fast.md
+  http://edcorner.stanford.edu/podcasts.html
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+is-slow-better-than-really-fast.md
+  http://www.trilogy.com/leadershipteam.html#joe
+  status: 404
+
+lunch-with-matt-brezina-thanks-vinod.md
+  http://www.sfgate.com/cgi-bin/blogs/sfgate/detail?blogid=19&entry_id=14765
+  status: 403
+
+lunch-with-matt-brezina-thanks-vinod.md
+  http://www.yelp.com/biz/xs50kbbXAR0uOcMsDWzp8w
+  status: 403
+
+meeting-with-jeremy-stoppelman-ceo-of-yelp.md
+  http://www.americanventuremagazine.com/news.php?newsid=1704
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+my-favorite-books-for-starting-scaling-up.md
+  https://www.amazon.com/Decide-Play-Great-Poker-Strategy/dp/B00776Z988
+  status: 404
+
+my-favorite-books-for-starting-scaling-up.md
+  https://www.thegreatcourses.com/courses/food-a-cultural-culinary-history.html
+  status: 404
+
+photo-a-href-http-37signals-com-svn-posts-3289-some-advice-from-jeff-bezos-jeff.md
+  http://37signals.com/svn/posts/3289-some-advice-from-jeff-bezos\"
+  status: 404
+
+photo-a-href-http-37signals-com-svn-posts-3289-some-advice-from-jeff-bezos-jeff.md
+  http://37signals.com/svn/posts/3289-some-advice-from-jeff-bezos\"\
+  status: 404
+
+photo-awesome-dissection-of-largest-advertising-spend-in-different-verticals-tod.md
+  http://www.businesspundit.com/advertising-budgets-of-the-top-200-brands/
+  status: ERROR
+  info: <urlopen error timed out>
+
+photo-favorite-photos-of-my-interview-of-jay-elliot-at-the-millennium-tower-cour.md
+  http://millenniumtowersf.com
+  status: 404
+
+photo-jeff-bezos-img-align-middle-src-http-www-achievement-org-achievers-bez0-ph.md
+  http://www.achievement.org/achievers/bez0/photos/bez0-002a.gif\"
+  status: 404
+
+photo-link-to-full-image-why-you-should-never-work-in-a-big-group-by-searls.md
+  http://twitter.com/searls
+  status: 520
+
+photo-link-to-full-image-why-you-should-never-work-in-a-big-group-by-searls.md
+  https://m3moore.s3.amazonaws.com/communication-cost-of-increasing-team-sizes.png
+  status: 404
+
+photo-link-to-full-image-why-you-should-never-work-in-a-big-group-by-searls.md
+  https://m3moore.s3.amazonaws.com/communication-cost-of-increasing-team-sizes.png%20
+  status: 404
+
+photo-with-all-this-attention-on-brogrammers-on-quora-im-wondering-why-theres-no.md
+  http://www.quora.com/Brogramming/How-does-a-programmer-become-a-brogrammer
+  status: 403
+
+ray-dalio-s-management-principles.md
+  https://www.southwesterncc.edu/sites/default/files/Tutor_Program/Learning%20Styles%20-%20VARK.pdf
+  status: 404
+
+ruby-on-rails-code-quality-checklist.md
+  http://git.or.cz/
+  status: 403
+
+ruby-on-rails-code-quality-checklist.md
+  http://ryandaigle.com/articles/2008/3/24/what-s-new-in-edge-rails-has-finder-functionality
+  status: 404
+
+ruby-on-rails-code-quality-checklist.md
+  http://ryandaigle.com/articles/2008/4/1/what-s-new-in-edge-rails-gem-dependencies
+  status: 404
+
+ruby-on-rails-code-quality-checklist.md
+  http://wiki.rubyonrails.org/rails/pages/SingleTableInheritance
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+ruby-on-rails-code-quality-checklist.md
+  http://www.rubycentral.com/pickaxe/tut_modules.html
+  status: 404
+
+special-thanks-to-laura-gramann-for-this-interview-of-me.md
+  http://twitter.com/misslg34
+  status: 520
+
+special-thanks-to-laura-gramann-for-this-interview-of-me.md
+  https://s1-origin.selectminds.com/storage/1/g/g/l/c/3/7/d/2/0/4/d/4/e/7/5/2/d/cm.jpg
+  status: ERROR
+  info: <urlopen error timed out>
+
+special-thanks-to-laura-gramann-for-this-interview-of-me.md
+  https://secure.gravatar.com/avatar/fa1f706d4b18bad0f57306102abccdb7?d=https%3A%2F%2Frapportive-proxy.heroku.com%2Fproxy%3Furl%3Dhttp%253A%252F%252Fa0.twimg.com%252Fprofile_images%252F1791632717%252FHVE6yJfg_normal&s=80
+  status: 400
+
+the-5-roles-of-product-development.md
+  http://designerfund.com/bridge/to-drive-growth-dive-into-data/
+  status: 404
+
+the-5-roles-of-product-development.md
+  https://www.linkedin.com/in/drake-mosier-30078
+  status: 999
+
+the-5-roles-of-product-development.md
+  https://www.quora.com/What-is-the-definitive-way-to-calculate-viral-coefficient-for-a-social-game
+  status: 403
+
+the-first-time-i-met-a-major-liar-was-a-seminal-moment-in-my-life-too.md
+  https://medium.com/thelist/i-was-drugged-and-raped-in-college-9e7bef881ebb
+  status: 410
+
+the-secrets-of-bezos.md
+  https://www.bloomberg.com/news/articles/2013-10-10/jeff-bezos-and-the-age-of-amazon-excerpt-from-the-everything-store-by-brad-stone
+  status: 403
+
+tpts-dris-okrs-zomg.md
+  http://blog.idonethis.com/two-pizza-team/
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+steve-wozniak-debunks-one-of-apples-biggest-myths.md
+  https://www.bloomberg.com/video/steve-wozniak-on-steve-jobs-geekiness-and-starting-apple-GVS_jUoTQtGYj9fwLg8dbQ.html
+  status: 403
+
+open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation.md
+  https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation
+  status: 404
+
+iced-coffee-kegs.md
+  https://www.joyridecoffeedistributors.com/service/page/cold-brew-iced-coffee-kegerators-coffee-kegs
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+the-men-who-built-america.md
+  https://www.history.com/shows/men-who-built-america
+  status: 404
+
+book-discussion-on-the-second-coming-of-steve-jobs.md
+  https://www.c-span.org/video/?160748-1/book-discussion-second-coming-steve-jobs
+  status: 404
+
+nice-is-a-four-letter-word-at-companies-practicing-radical-candor.md
+  https://www.wsj.com/articles/nice-is-a-four-letter-word-at-companies-practicing-radical-candor-1451498192
+  status: 401
+
+mentalhealtherror.md
+  https://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred
+  status: 404
+
+the-nc-barbecue-society-historic-trail.md
+  https://www.ncbbqsociety.com/bbqmap/trail_map.html
+  status: 404
+
+ask-dharmesh-about-the-hubspot-culture-code.md
+  https://inbound.org/blog/ask-dharmesh-about-the-hubspot-culture-code
+  status: ERROR
+  info: <urlopen error timed out>
+
+meet-facebooks-most-successful-alum.md
+  https://medium.com/@producthunt/meet-facebook-s-most-successful-alum-b67fc8819ccd#.aydzjcp7w
+  status: ERROR
+  info: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+
+staying-one-step-ahead-at-pixar.md
+  https://www.mckinsey.com/business-functions/organization/our-insights/staying-one-step-ahead-at-pixar-an-interview-with-ed-catmull
+  status: ERROR
+  info: The read operation timed out
+
+an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple.md
+  https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.42o70zid4
+  status: 404
+
+e665.md
+  https://thisweekinstartups.com/ed-catmull-pixar-disney-pt1/
+  status: 404
+
+e666.md
+  https://thisweekinstartups.com/ed-catmull-pixar-disney-pt2/
+  status: 404
+
+the-things-we-really-need-are-getting-more-expensive.md
+  https://www.weforum.org/agenda/2016/08/the-things-we-really-need-are-getting-more-expensive-other-stuff-is-getting-cheaper-why
+  status: 403
+
+the-five-types-of-virality.md
+  https://news.greylock.com/the-five-types-of-virality-8ba42051928d#.nttmoocng
+  status: ERROR
+  info: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+
+building-a-shop-with-sub-second-page-loads.md
+  https://medium.baqend.com/building-a-shop-with-sub-second-page-loads-lessons-learned-4bb1be3ed07
+  status: ERROR
+  info: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+
+48-of-americans-left-behind-by-the-global-information-age.md
+  https://medium.com/@m3moore/48-of-americans-left-behind-by-the-global-information-age-8692e219e7c9
+  status: 410
+
+what-every-founder-should-constantly-be-thinking-about.md
+  https://medium.com/product-hunt/what-every-founder-should-constantly-be-thinking-about-fcdc2e2ec851
+  status: ERROR
+  info: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>
+
+the-end-of-cloud-computing.md
+  https://a16z.com/2016/12/16/the-end-of-cloud-computing/
+  status: 404
+
+steve-jobs-and-jeff-bezos-meet-ginger.md
+  https://hbswk.hbs.edu/archive/3533.html
+  status: 403
+
+warren-buffetts-best-investment.md
+  https://www.gatesnotes.com/2017-Annual-Letter
+  status: 403
+
+by-littleplanetfactory.md
+  https://www.etsy.com/shop/LittlePlanetFactory
+  status: 403
+
+5-keys-to-unlocking-your-inner-beast-mode.md
+  https://www.sachinrekhi.com/5-keys-to-unlocking-your-inner-beast-mode
+  status: 404
+
+ycs-series-a-diligence-checklist.md
+  https://blog.ycombinator.com/ycs-series-a-diligence-checklist/
+  status: 404
+
+fractal-lab.md
+  https://sub.blue/fractal-lab
+  status: ERROR
+  info: <urlopen error [Errno 54] Connection reset by peer>
+
+complete-list-of-final-sales-prices-for-christies-auction.md
+  https://docs.google.com/spreadsheet/ccc?key=0AlPlf_CDsD3rdEpHd2JrY2F3OW5TZm1QMHB4SFdiQlE
+  status: 410
+
+marketing-inspiration.md
+  https://en.wikipedia.org/wiki/List_of_Apple_Inc._slogans
+  status: 404
+
+great-answer-to-what-makes-a-good-engineering-culture.md
+  https://www.quora.com/What-makes-a-good-engineering-culture
+  status: 403
+
+paul-dejoes-amazing-answer-to-what-does-it-feel-like-to-be-the-ceo-of-a-start-up.md
+  https://www.quora.com/Startups/What-does-it-feel-like-to-be-the-CEO-of-a-start-up/answer/Paul-DeJoe-2
+  status: 403
+
+ian-mcallisters-amazing-quora-answer-to.md
+  https://www.quora.com/Product-Management/What-distinguishes-the-top-1-of-product-managers-from-the-top-10/answer/Ian-McAllister
+  status: 403
+
+a-great-anonymous-answer-to-quora-question.md
+  https://www.quora.com/Marissa-Mayer-Named-Yahoo-CEO-July-2012/How-was-Marissa-Mayer-viewed-within-Google/answers/1374512
+  status: 403
+
+goodbye-office-parks.md
+  https://on.wsj.com/PSTlU7
+  status: 401
+
+the-aha-moments-that-made-paul-grahams-y-combinator-possible.md
+  https://www.fastcompany.com/3002810/aha-moments-made-paul-grahams-y-combinator-possible
+  status: 403
+
+correctly-value-your-startup-job-offer.md
+  https://timolshansky.com/2013/02/04/know-your-value.html
+  status: 404
+
+another-cool-quora-thread.md
+  https://www.quora.com/Startup-Founders-and-Entrepreneurs/What-separates-the-top-10-of-startup-CEOs-from-the-rest
+  status: 403
+
+what-is-the-nicest-thing-youve-ever-done-that-no-one-knows-about.md
+  https://www.quora.com/Life/What-is-the-nicest-thing-youve-ever-done-that-no-one-knows-about
+  status: 403
+
+resume.md
+  https://dl.dropbox.com/u/15669030/Matt%20Moore%20Resume.pdf
+  status: 404
+
+jetstrap.md
+  https://www.jetstrap.com
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+what-is-the-engineering-interview-process-like-at-stripe.md
+  https://www.quora.com/Stripe-company/What-is-the-engineering-interview-process-like-at-Stripe?share=1
+  status: 403
+
+what-i-learned-from-getting-my-side-project-acquired.md
+  https://www.ianww.com/blog/2013/10/08/lessons-from-getting-my-side-project-acquired/
+  status: 502
+
+the-secrets-of-bezos.md
+  https://www.businessweek.com/articles/2013-10-10/jeff-bezos-and-the-age-of-amazon-excerpt-from-the-everything-store-by-brad-stone
+  status: 403
+
+bti360.md
+  https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.bti360.com%2Fwhat-ive-learned-in-45-years-in-the-software-industry%2F&t=YzQ0ZWVkOGU4MjU5ZGYxZDhhNGNhNjEyNTg4ZmM3MGFmMjVkMzhkZiwyNGVlZmZhNGFmMTA1YWQ3NjFjMWIwOTBhOTUyMTcyY2Q2MWQxYjVi&ts=1609951560
+  status: 404
+
+10-corporations-control-almost-everything-you-buy-this-chart-shows-how.md
+  https://www.policymic.com/articles/71255/10-corporations-control-almost-everything-you-buy-this-chart-shows-how
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+grippy-not-sticky.md
+  https://news.stanford.edu/2015/05/27/grabber-robot-gecko-052715/
+  status: 403
+
+how-i-learned-to-stop-giving-advice.md
+  https://jamesavery.io/how-i-learned-to-stop-giving-advice/
+  status: ERROR
+  info: <urlopen error timed out>
+
+userhub.md
+  https://www.userhub.co/
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+gigs-using-the-go-programming-language.md
+  https://www.golanggigs.com/
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+carbon-data.md
+  https://carbondata.us/
+  status: ERROR
+  info: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+i-h2go-hydrogen-car.md
+  https://grandst.com/p/i-h2go
+  status: ERROR
+  info: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'grandst.com'. (_ssl.c:1081)>
+
+scientists-mapped-8-000-galaxies-surrounding-us-and-found-this-amazing-discovery.md
+  https://www.upworthy.com/scientists-mapped-8000-galaxies-surrounding-us-and-found-this-amazing-discovery
+  status: 404
+
+mit-energy-scavenger-harvests-power-from-light-vibrations-and-heat.md
+  https://www.popsci.com/science/article/2012-07/new-low-power-generator-scavenges-electricity-multiple-ambient-sources
+  status: 410
+
+brick-by-brick.md
+  https://www.bloomberg.com/video/brick-by-brick-inside-lego-4-17-SlbmZEQnSfyC~y1eSm9FAg.html
+  status: 403
+
+what-are-your-startups-philosophies.md
+  http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FBuilt-Last-Successful-Visionary-Companies%2Fdp%2F0060566108%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1190448591%26sr%3D1-1&tag=m3moore-20&linkCode=ur2&camp=1789&creative=9325
+  status: 503
+
+what-are-your-startups-philosophies.md
+  http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FFounders-Work-Stories-Startups-Early%2Fdp%2F1590597141%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1190448923%26sr%3D1-1&tag=m3moore-20&linkCode=ur2&camp=1789&creative=9325
+  status: 404
+
+what-are-your-startups-philosophies.md
+  http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FGood-Great-Companies-Leap-Others%2Fdp%2F0066620996%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1190448660%26sr%3D1-1&tag=m3moore-20&linkCode=ur2&camp=1789&creative=9325
+  status: 404
+
+what-are-your-startups-philosophies.md
+  http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FSecond-Coming-Steve-Jobs%2Fdp%2F0767904338%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1190449019%26sr%3D1-1&tag=m3moore-20&linkCode=ur2&camp=1789&creative=9325
+  status: 503
+
+what-are-your-startups-philosophies.md
+  http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FSouthwest-Airlines-Business-Personal-Success%2Fdp%2F0767901843&tag=m3moore-20&linkCode=ur2&camp=1789&creative=9325
+  status: ERROR
+  info: <urlopen error _ssl.c:1063: The handshake operation timed out>
+
+what-are-your-startups-philosophies.md
+  http://www.hp.com/hpinfo/abouthp/corpobj.html
+  status: ERROR
+  info: timed out
+
+when-you-meet-me-find-out-i-m-an-entrepreneur-and-say-goodbye-stop-adding-in-goo.md
+  https://m3moore.s3.amazonaws.com/good-luck-dice.png
+  status: 404
+
+Checked: 512
+Broken: 123
