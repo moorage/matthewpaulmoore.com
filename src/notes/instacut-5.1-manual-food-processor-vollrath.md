@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
-title: "#robotics"
+title: "Instacut 5.1 Manual Food Processor from Vollrath"
 date: 2022-01-01
 type: note
-subtitle: "#robotics."
+subtitle: "Manual food processor for efficient and gentle food preparation."
 tags:
   - startups
 ---
@@ -12,4 +12,10 @@ tags:
 <iframe width="356" height="200" id="youtube_iframe" src="https://www.youtube.com/embed/bqznlrH-dLU?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-#robotics?
+### For Home Automation Inspiration
+
+- higher throughput with less fatigue
+- less mush/bruise on softer produce
+- less fiddling (adjustment, alignment, missing fasteners)
+- faster changeovers
+- cleaner bin-based workflow

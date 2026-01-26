@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
-title: "#DIY #robots"
+title: "A Drill-Powered Garlic Peeler"
 date: 2022-01-01
 type: note
-subtitle: "#DIY #robots."
+subtitle: "An entertaining overbuild #DIY robot for peeling garlic cloves using a drill."
 tags:
   - startups
 ---
@@ -12,4 +12,4 @@ tags:
 <iframe width="356" height="200" id="youtube_iframe" src="https://www.youtube.com/embed/1p59j1RzMfk?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-#DIY #robots?
+This proves that robotic hands are not going to solve garlic peeling any time soon. A simple vibrating bowl or rotating drum with some abrasion would be way more practical.

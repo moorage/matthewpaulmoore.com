@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Amazing talk with Marissa, Eric, and Jonathan from Google"
+title: "Video: Amazing talk with Marissa, Eric, and Jonathan from Google"
 date: 2014-12-21
 type: note
 subtitle: "Amazing talk with Marissa, Eric, and Jonathan from Google."

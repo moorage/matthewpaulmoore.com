@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Highly recommended about mindfulness, for technical / scientific minds"
+title: "Video: Highly recommended about mindfulness, for technical / scientific minds"
 date: 2016-03-08
 type: note
 subtitle: "Highly recommended about mindfulness, for technical / scientific minds."

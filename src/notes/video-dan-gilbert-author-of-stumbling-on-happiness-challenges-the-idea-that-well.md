@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Dan Gilbert, author of Stumbling on Happiness, challenges the idea that we’ll be miserable if we don’t get what we want. Our “psychological immune system” lets us feel truly happy even when things don’t go as planned."
+title: "Video: Dan Gilbert, author of Stumbling on Happiness, challenges the idea that we’ll be miserable if we don’t get what we want. Our “psychological immune system” lets us feel truly happy even when things don’t go as planned."
 date: 2013-04-30
 type: note
 subtitle: "Dan Gilbert, author of Stumbling on Happiness, challenges the idea that we’ll be miserable if we don’t get what we want."

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: My favorite out of the new apple ads. Unlike “Thumb”, “Physics”, or “Ears”, it actually provides a context for an emotional response. The “Got it!” at the end nails it."
+title: "Video: My favorite out of the new apple ads. Unlike “Thumb”, “Physics”, or “Ears”, it actually provides a context for an emotional response. The “Got it!” at the end nails it."
 date: 2012-09-22
 type: note
 subtitle: "My favorite out of the new apple ads."

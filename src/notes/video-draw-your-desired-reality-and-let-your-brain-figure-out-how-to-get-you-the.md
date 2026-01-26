@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Draw your desired reality, and let your brain figure out how to get you there!"
+title: "Video: Draw your desired reality, and let your brain figure out how to get you there!"
 date: 2016-03-02
 type: note
 subtitle: "Draw your desired reality, and let your brain figure out how to get you there."

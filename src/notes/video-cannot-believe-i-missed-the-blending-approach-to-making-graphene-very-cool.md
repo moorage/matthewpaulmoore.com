@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Cannot believe I missed the “blending” approach to making graphene! Very cool!"
+title: "Video: Cannot believe I missed the “blending” approach to making graphene! Very cool!"
 date: 2017-01-08
 type: note
 subtitle: "Cannot believe I missed the “blending” approach to making graphene."

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Curiosity + mindfulness are a powerful combo!"
+title: "Video: Curiosity + mindfulness are a powerful combo!"
 date: 2017-02-18
 type: note
 subtitle: "Curiosity + mindfulness are a powerful combo."

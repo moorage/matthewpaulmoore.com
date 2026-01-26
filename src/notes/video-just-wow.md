@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Just wow."
+title: "Video: Just wow."
 date: 2018-05-08
 type: note
 subtitle: "Just wow."

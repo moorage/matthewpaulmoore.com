@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Go to the 16min mark for some laughs about consultants"
+title: "Video: Go to the 16min mark for some laughs about consultants"
 date: 2018-03-22
 type: note
 subtitle: "Go to the 16min mark for some laughs about consultants."

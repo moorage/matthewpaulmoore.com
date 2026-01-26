@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Really important questions for our next 50 years"
+title: "Video: Really important questions for our next 50 years"
 date: 2016-11-04
 type: note
 subtitle: "Really important questions for our next 50 years."

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: This is a fantastic book, and I found a talk on it, which is an awesome refresher :)"
+title: "Video: This is a fantastic book, and I found a talk on it, which is an awesome refresher :)"
 date: 2016-02-01
 type: note
 subtitle: "This is a fantastic book, and I found a talk on it, which is an awesome refresher :)."

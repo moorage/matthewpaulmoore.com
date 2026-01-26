@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Photo: Fun watch - Bezos is, as always, super smart and timeless"
+title: "Video: Fun watch - Bezos is, as always, super smart and timeless"
 date: 2017-07-14
 type: note
 subtitle: "Fun watch - Bezos is, as always, super smart and timeless."
