@@ -349,6 +349,10 @@ a:focus-visible {
   margin: var(--space-4) 0 0;
 }
 
+.home-more {
+  margin-top: var(--space-3);
+}
+
 .post-list li {
   display: grid;
   grid-template-columns: minmax(4ch, 9ch) 1fr;
