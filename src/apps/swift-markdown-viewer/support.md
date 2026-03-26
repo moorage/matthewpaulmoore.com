@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Swift Markdown Viewer Support
-permalink: /apps/swift-markdown-viewer/support
+permalink: /apps/swift-markdown-viewer/support/index.html
 ---
 <section class="page">
   <h1>Swift Markdown Viewer Support</h1>

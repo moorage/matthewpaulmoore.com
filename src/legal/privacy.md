@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Privacy Policy
-permalink: /legal/privacy
+permalink: /legal/privacy/index.html
 ---
 <section class="page">
   <h1>Privacy Policy</h1>

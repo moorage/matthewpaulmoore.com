@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Terms of Use
-permalink: /legal/terms
+permalink: /legal/terms/index.html
 ---
 <section class="page">
   <h1>Terms of Use</h1>
