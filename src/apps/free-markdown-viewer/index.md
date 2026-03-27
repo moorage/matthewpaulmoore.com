@@ -26,7 +26,7 @@ Use it to read notes, documentation, knowledge bases, exported reports, and proj
 
 The renderer stays native. There is no `WKWebView`, HTML, CSS, or JavaScript rendering layer between you and your documents.
 
-Free Markdown Viewer is also FOSS. The source is available at <https://github.com/moorage/swift-markdown-viewer>.
+Free Markdown Viewer is also FOSS. The source is available at <https://github.com/moorage/free-markdown-viewer>.
 
 It is designed to stay direct:
 
