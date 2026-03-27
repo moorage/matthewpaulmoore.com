@@ -5,7 +5,7 @@ permalink: /legal/terms/index.html
 ---
 <section class="page">
   <h1>Terms of Use</h1>
-  <p class="lede">Swift Markdown Viewer is provided for personal and lawful use.</p>
+  <p class="lede">Free Markdown Viewer is provided for personal and lawful use.</p>
   <img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
 </section>
 

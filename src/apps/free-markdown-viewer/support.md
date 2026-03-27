@@ -1,17 +1,17 @@
 ---
 layout: layouts/base.njk
-title: Swift Markdown Viewer Support
-permalink: /apps/swift-markdown-viewer/support/index.html
+title: Free Markdown Viewer Support
+permalink: /apps/free-markdown-viewer/support/index.html
 ---
 <section class="page">
-  <h1>Swift Markdown Viewer Support</h1>
-  <p class="lede">Help and support information for Swift Markdown Viewer on macOS, iPhone, and iPad.</p>
+  <h1>Free Markdown Viewer Support</h1>
+  <p class="lede">Help and support information for Free Markdown Viewer on macOS, iPhone, and iPad.</p>
   <img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
 </section>
 
 ## Overview
 
-Swift Markdown Viewer is a free app for viewing Markdown folders on macOS, iPhone, and iPad.
+Free Markdown Viewer is a free app for viewing Markdown folders on macOS, iPhone, and iPad.
 
 ## Supported workflow
 
@@ -31,7 +31,7 @@ If a document or media file does not appear:
 
 Please report any issues or feature requests to the GitHub repository:
 
-- <https://github.com/moorage/swift-markdown-viewer/issues>
+- <https://github.com/moorage/free-markdown-viewer/issues>
 
 ## Privacy
 

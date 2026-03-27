@@ -5,7 +5,7 @@ permalink: /legal/privacy/index.html
 ---
 <section class="page">
   <h1>Privacy Policy</h1>
-  <p class="lede"><strong>Swift Markdown Viewer</strong> is a local-first app for viewing Markdown files on macOS, iPhone, and iPad.</p>
+  <p class="lede"><strong>Free Markdown Viewer</strong> is a local-first app for viewing Markdown files on macOS, iPhone, and iPad.</p>
   <img class="ornament" src="{{ '/assets/ornaments/rule.svg' | url }}" alt="" aria-hidden="true" />
 </section>
 
